@@ -1,4 +1,4 @@
-# Create ARM VNGs on Ocean Spark By Spot
+# Create GPU VNG on Ocean Spark By Spot
 
 ## Motivation
 
